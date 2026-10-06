@@ -12,7 +12,7 @@ I am building hands-on Generative AI projects using Python, RAG, LangChain, Lang
 A document question-answering project with a FastAPI backend, Streamlit interface and Groq integration.
 
 ### [Agentic AI Chatbot](https://github.com/rohit-dodti/agentic-ai-chatbot)
-A chatbot project exploring LLM tool use and web search with a Python backend and Streamlit interface.
+AI chatbot project with FastAPI, Streamlit, Groq/OpenAI and optional Tavily web search.
 
 ### [GenAI RAG System](https://github.com/rohit-dodti/genai-rag-system)
 A modular RAG project with separate components for document ingestion, chunking, embeddings, retrieval and answer generation.
