@@ -1,10 +1,14 @@
 # Rohit Dodti
 
-### Generative AI Applications | Data Analytics | Python Development
+### Software Engineer | Java Developer | Backend Development | Generative AI | Data Analytics
 
-I am a Data Analyst with 5+ years of overall professional experience across software development, data analysis and reporting.
+I am a Software Engineer and Data Analyst with 5+ years of overall professional experience across software development, application development, data analysis, and reporting.
 
-I am building hands-on Generative AI projects using Python, RAG, LangChain, LangGraph, FastAPI and Streamlit. My portfolio combines AI applications with SQL analysis and Power BI dashboards.
+My technical interests include Java-based software development, object-oriented programming, backend development, REST APIs, Python development, and database management using SQL and MySQL.
+
+Alongside software engineering, I am building hands-on Generative AI applications using Python, RAG, LangChain, LangGraph, FastAPI, and Streamlit. I also work with data analytics and visualization tools such as Power BI, Excel, Pandas, and NumPy.
+
+My GitHub portfolio showcases my journey across software engineering, backend application development, Generative AI, and data analytics.
 
 ## Featured GenAI Projects
 
@@ -26,15 +30,16 @@ Projects covering SQL data cleaning, exploratory analysis and Power BI dashboard
 
 ## Skills
 
-- **Languages:** Python, SQL, R
+- **Programming Languages:** Java, Python, SQL, R
+- **Software Development:** Core Java, OOP, REST APIs, Spring Boot
 - **Data Analytics:** Power BI, Excel, Pandas, NumPy, MySQL
 - **Generative AI:** RAG, embeddings, prompt engineering, LangChain, LangGraph, FAISS
-- **Application Development:** FastAPI, Streamlit, REST APIs
-- **Tools:** Git, GitHub
+- **Application Development:** FastAPI, Streamlit
+- **Tools & Version Control:** SVN, Git, GitHub
 
 ## Career Focus
 
-Seeking opportunities in Generative AI application development and data analytics, combining my professional data experience with hands-on AI projects.
+Seeking opportunities in Software Engineering, Java Development, Backend Development, and Generative AI application development, where I can apply my professional experience in software development and data analytics while building scalable applications and intelligent solutions.
 
 ## Connect
 
