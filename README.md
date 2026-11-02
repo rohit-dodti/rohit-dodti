@@ -10,8 +10,6 @@ Alongside software engineering, I am building hands-on Generative AI application
 
 My GitHub portfolio showcases my journey across software engineering, backend application development, Generative AI, and data analytics.
 
-## Featured GenAI Projects
-
 ### [Mini RAG Chatbot](https://github.com/rohit-dodti/mini-rag-chatbot)
 A document question-answering project with a FastAPI backend, Streamlit interface and Groq integration.
 
