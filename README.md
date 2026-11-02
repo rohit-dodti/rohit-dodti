@@ -37,7 +37,7 @@ Projects covering SQL data cleaning, exploratory analysis and Power BI dashboard
 
 ## Career Focus
 
-Seeking opportunities in Software Engineering, Java Development, Backend Development, and Generative AI application development, where I can apply my professional experience in software development and data analytics while building scalable applications and intelligent solutions.
+Seeking opportunities in Software Engineering, Data Analytics , Java Development, Backend Development, and Generative AI application development, where I can apply my professional experience in software development and data analytics while building scalable applications and intelligent solutions.
 
 ## Connect
 
