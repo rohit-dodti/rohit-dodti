@@ -1,6 +1,6 @@
 # Rohit Dodti
 
-### Software Engineer | Java Developer | Backend Development | Generative AI | Data Analytics
+### Software Engineer | Data Analytics | Java Developer | Backend Development | Generative AI 
 
 I am a Software Engineer and Data Analyst with 5+ years of overall professional experience across software development, application development, data analysis, and reporting.
 
